@@ -1,0 +1,22 @@
+{
+  "name": "jest-testing-2",
+  "version": "1.0.0",
+  "description": "following tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coder731/jest-testing-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Coder731/jest-testing-2/issues"
+  },
+  "homepage": "https://github.com/Coder731/jest-testing-2#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
